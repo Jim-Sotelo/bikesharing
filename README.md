@@ -56,4 +56,22 @@ the most money.
 
 ![](resources/heat_users.png)
 
+## Summary
+
+After we reviewed this data it does seem very possible that we could bring
+Citibike to Iowa.  There are a couple items though that we could try to 
+visualize and that would be the cooler months in the fall and spring. 
+If we could do another analysis based on the month of April and October
+this may give us more data to see if it's possible to bring this to Iowa.
+The positive with NYC is that yes there are a ton of subscribrers but
+also a ton of tourist that may be using these bikes as well. So if there
+would be a way to get data showing if the users are first time users that
+may give us glimpse on how much NYC relied on their tourists.  Iowa isn't
+a true destination so that is what we'd liek to see, if most of their
+customer base is still regular users but not subscribers that may show
+that this is feasible and would make money in Des Moines.  
+
+[link to dashboard](https://public.tableau.com/views/IowaBike/CheckoutTimesbyGender?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
 
